@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 6
   exclude:
-    archived: true
+    archived: false
     forks: true
     projects:
       - ForumotionBackupTemplates
@@ -50,13 +50,13 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Userscripts
+  - name: UserScript
     web_url: https://github.com/topics/userscript
-    image_url: https://addons.cdn.mozilla.net/user-media/addon_icons/0/748-64.png
+    image_url: https://greasyfork.org/packs/media/images/blacklogo96-b2384000fca45aa17e45eb417cbcbb59.png
 
-  - name: Nuxt.js
-    web_url: https://github.com/topics/nuxtjs
-    image_url: https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png
+  - name: NestJS
+    web_url: https://github.com/topics/nestjs
+    image_url: https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png
 
   - name: Laravel
     web_url: https://github.com/topics/laravel
