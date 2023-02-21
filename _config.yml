@@ -52,7 +52,7 @@ projects:
 topics:
   - name: UserScript
     web_url: https://github.com/topics/userscript
-    image_url: https://greasyfork.org/packs/media/images/blacklogo96-b2384000fca45aa17e45eb417cbcbb59.png
+    image_url: https://raw.githubusercontent.com/greasemonkey/greasemonkey/11e340b4dadee868191e72a3ef888f75c6eabbc1/skin/icon.svg
 
   - name: NestJS
     web_url: https://github.com/topics/nestjs
